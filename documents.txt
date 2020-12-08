@@ -1,2 +1,2 @@
 This is text documents file 
-I have commited before and now I am changng this file once more. I want to see the power of git
+I have committed before and now I am changing this file once more. I want to see the power of git
